@@ -1,5 +1,0 @@
-{{#user}}
-Name: Esakkiappan Thevar
-Skills: HTML, CSS, JS, Reactjs
-Email: thevarbalan32@gmail.com
-{{/user}}
